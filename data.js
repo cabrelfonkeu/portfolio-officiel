@@ -133,21 +133,6 @@ window.SITE = {
       "id": "p4"
     },
     {
-      "title": "Redondance HSRP",
-      "status": "Terminé",
-      "year": "2026",
-      "summary": "Deux routeurs Cisco 4331 en HSRP sur deux VLAN (192.168.0.0/24 et 10.0.0.0/24), avec test de bascule.",
-      "details": "Identification du routeur actif et du routeur en veille, puis coupure du routeur actif pour valider la bascule.",
-      "tags": [
-        "Cisco",
-        "HSRP",
-        "VLAN",
-        "Redondance"
-      ],
-      "link": "",
-      "id": "p7"
-    },
-    {
       "title": "Script de déploiement Bash",
       "status": "Terminé",
       "year": "2026",
