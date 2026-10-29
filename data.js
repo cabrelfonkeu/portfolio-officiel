@@ -243,14 +243,6 @@ window.SITE = {
       "date": "2026-10-29",
       "file": "cv/20261029-CV_Cabrel_Fonkeu_Nana-1-.pdf",
       "current": true
-    },
-    {
-      "id": "cv1",
-      "label": "CV Infrastructure, Systèmes & Réseaux",
-      "note": "Projets pfSense, WireGuard, Active Directory, Squid",
-      "date": "2026-10-29",
-      "file": "cv/CV_Cabrel_Fonkeu_Nana_2026-10.pdf",
-      "current": false
     }
   ],
   "docs": [
