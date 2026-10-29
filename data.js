@@ -232,7 +232,7 @@ window.SITE = {
       "id": "d2",
       "title": "Documentation Active Directory (remoteworks.local)",
       "summary": "Commandes, scripts et captures des exercices 1 à 8, avec l’audit PingCastle / HardenAD.",
-      "status": "En cours",
+      "status": "Terminé",
       "date": "2026-10-29",
       "projectId": "p3",
       "file": "",
