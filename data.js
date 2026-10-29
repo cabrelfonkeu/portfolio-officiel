@@ -13,14 +13,19 @@ window.SITE = {
     "linkedin": "https://www.linkedin.com/in/cabrel-fonkeu-nana-5928a7398",
     "github": "",
     "photo": "assets/photo.jpg",
-    "photoV": 0
+    "photoV": 1793298704825
   },
   "skills": [
     {
       "cat": "Réseaux",
       "items": [
-        "TCP/IP, VLAN, DHCP, DNS",
-        "Routage, HSRP, CARP",
+        "TCP/IP",
+        "VLAN",
+        "DHCP",
+        "DNS",
+        "Routage",
+        "HSRP",
+        "CARP",
         "VPN WireGuard",
         "Proxy Squid / SquidGuard"
       ]
@@ -29,28 +34,39 @@ window.SITE = {
       "cat": "Sécurité",
       "items": [
         "Pare-feu pfSense",
-        "Durcissement Active Directory (PingCastle, HardenAD)"
+        "Durcissement Active Directory (PingCastle",
+        "HardenAD)"
       ]
     },
     {
       "cat": "Systèmes & virtualisation",
       "items": [
-        "Windows Server, Active Directory, GPO",
-        "Linux Debian, Apache, MariaDB/MySQL",
-        "Proxmox VE, Vagrant"
+        "Windows Server",
+        "Active Directory",
+        "GPO",
+        "Linux Debian",
+        "Apache",
+        "MariaDB/MySQL",
+        "Proxmox VE",
+        "Vagrant"
       ]
     },
     {
       "cat": "Scripting & outils",
       "items": [
-        "Bash, PowerShell, Git",
+        "Bash",
+        "PowerShell",
+        "Git",
         "GLPI (support et gestion de parc)"
       ]
     },
     {
       "cat": "Développement",
       "items": [
-        "HTML5/CSS3, PHP, SQL, UML"
+        "HTML5/CSS3",
+        "PHP",
+        "SQL",
+        "UML"
       ]
     }
   ],
