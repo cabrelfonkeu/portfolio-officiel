@@ -133,20 +133,6 @@ window.SITE = {
       "id": "p4"
     },
     {
-      "title": "Réseau d’entreprise TechNova SARL",
-      "status": "En cours",
-      "year": "2026",
-      "summary": "Réseau virtuel d’une entreprise fictive de 50 personnes, monté sur Proxmox VE.",
-      "details": "VLAN en sous-interfaces pfSense, isolation par VLAN à valider avec des VM de test Alpine Linux.",
-      "tags": [
-        "Proxmox",
-        "pfSense",
-        "VLAN"
-      ],
-      "link": "",
-      "id": "p5"
-    },
-    {
       "title": "Redondance HSRP",
       "status": "Terminé",
       "year": "2026",
