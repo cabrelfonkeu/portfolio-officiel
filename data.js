@@ -73,7 +73,7 @@ window.SITE = {
   "projects": [
     {
       "title": "Haute disponibilité pfSense (CARP)",
-      "status": "En cours",
+      "status": "Terminé",
       "year": "2026",
       "summary": "Deux pare-feu pfSense en cluster CARP devant un serveur web en LAN, avec un client côté WAN.",
       "details": "Schéma réseau réalisé avec draw.io (nom, IP, masque et passerelle de chaque machine), captures d’écran et documentation technique pour le rendu.",
