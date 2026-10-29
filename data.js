@@ -147,21 +147,6 @@ window.SITE = {
       "id": "p5"
     },
     {
-      "title": "Laboratoire réseau Proxmox",
-      "status": "En cours",
-      "year": "2026",
-      "summary": "LAN de labo isolé (192.168.50.0/24) avec une VM Debian en routeur : DHCP avec dnsmasq, filtrage avec nftables.",
-      "details": "Point d’accès Wi-Fi et surveillance prévus ensuite.",
-      "tags": [
-        "Proxmox",
-        "Linux",
-        "nftables",
-        "dnsmasq"
-      ],
-      "link": "",
-      "id": "p6"
-    },
-    {
       "title": "Redondance HSRP",
       "status": "Terminé",
       "year": "2026",
