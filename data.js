@@ -207,16 +207,7 @@ window.SITE = {
       "id": "p12"
     }
   ],
-  "cvs": [
-    {
-      "id": "rv6s11",
-      "label": "cv_cabrel",
-      "note": "nouveau cv",
-      "date": "2026-10-29",
-      "file": "cv/20261029-CV_Cabrel_Fonkeu_Nana-1-.pdf",
-      "current": true
-    }
-  ],
+  "cvs": [],
   "docs": [
     {
       "id": "d1",
